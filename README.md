@@ -6,8 +6,8 @@
 
 ## 🚀 Projects
 - 📊 [IPL Data Analysis EDA](https://github.com/Khwaja-ds/Data-Science-and-AI-ML-6-months/tree/main/Projects/EDA-IPL%20Data%20Analysis) – Pandas + Seaborn EDA on cricket match data  
-- 🎬 [Netflix EDA](#) – Visual exploration of movie & show trends  
-- 🍽 [Zomato Restaurant Analysis](#) – Analyzing cuisine and location trends  
+- 🎬 [Netflix EDA](https://github.com/Khwaja-ds/Data-Science-and-AI-ML-6-months/tree/main/Projects/Netflix%20EDA) – Visual exploration of movie & show trends  
+- 🍽 [Image To Text Generator](https://github.com/Khwaja-ds/Data-Science-and-AI-ML-6-months/tree/main/Projects/Image_TO_Text_Generator) – Analyzing cuisine and location trends  
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
